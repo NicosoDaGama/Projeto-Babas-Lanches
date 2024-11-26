@@ -1,3 +1,3 @@
-# Projeto---Babas-lanches
-# Projeto---Babas-lanches
-# Projeto-de-extens-o---Babas-lanches
+# Projeto de extensão---Babas-lanches
+
+Trabalho de Extensão da matéria Programação para dispositivos móveis em Android.
